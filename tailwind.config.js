@@ -190,7 +190,7 @@ module.exports = {
     },
   },
   plugins: [
-   /* fluid({
+    fluid({
       suffix: "",
       textSizes: {
         "xl-display": {
@@ -252,7 +252,7 @@ module.exports = {
         captionLarge: "14px",
         captionSmall: "12px",
       },
-    }),*/
+    }),
   ],
   purge: {
     options: {
